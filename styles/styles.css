@@ -424,6 +424,8 @@
   #es-rc #es-rc-content .es-safe {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    padding-bottom: 3px;
+    background-color: #ffd822;
   }
   #es-rc #es-rc-content .es-safe__desc {
     padding: 32px;

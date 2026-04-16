@@ -567,6 +567,8 @@ $transition: all 0.3s ease-in-out;
       & {
         display: grid;
         grid-template-columns: 1fr 1fr;
+        padding-bottom: 3px;
+        background-color: #ffd822;
       }
 
       &__desc {
