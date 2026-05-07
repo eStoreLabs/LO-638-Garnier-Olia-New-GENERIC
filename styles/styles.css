@@ -251,8 +251,6 @@
     -moz-column-gap: 10px;
          column-gap: 10px;
     margin-bottom: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
   }
   #es-rc #es-rc-content .es-kv__img {
     max-height: 480px;
@@ -500,7 +498,7 @@
   }
 }
 #es-rc #es-rc-content .es-adv .es-adv__image {
-  width: 80%;
+  width: 90%;
 }
 #es-rc #es-rc-content .es-adv .es-adv__desc {
   color: #ffffff;
